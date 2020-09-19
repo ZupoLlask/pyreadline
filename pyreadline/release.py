@@ -23,9 +23,9 @@ name = 'pyreadline'
 
 branch = ''
 
-version = '2.0'
+version = '2.1.1'
 
-description = "A python implmementation of GNU readline."
+description = "A python implemementation of GNU readline."
 
 long_description = \
 """
